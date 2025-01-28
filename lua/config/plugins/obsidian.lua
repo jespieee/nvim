@@ -11,15 +11,15 @@ return {
       workspaces = {
         {
           name = "cs354",
-          path = "~/notes/cs354",
+          path = "~/uwcs/notes/cs354",
         },
         {
           name = "cs536",
-          path = "~/notes/cs536",
+          path = "~/uwcs/notes/cs536",
         },
       },
       templates = {
-        subdir = "~/notes/templates",
+        subdir = "~/uwcs/notes/templates",
       },
       -- Optional, customize how note IDs are generated given an optional title.
       ---@param title string|?
